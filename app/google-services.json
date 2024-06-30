@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "607795246449",
+    "project_id": "conector-c14e7",
+    "storage_bucket": "conector-c14e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607795246449:android:b4d06562837156393172d0",
+        "android_client_info": {
+          "package_name": "com.example.contadorsincronizado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXWkYH_puGUPayJaAiO3GE7_exsVVuOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607795246449:android:3d79e3b0a96fa11e3172d0",
+        "android_client_info": {
+          "package_name": "com.example.sincronizar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXWkYH_puGUPayJaAiO3GE7_exsVVuOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
